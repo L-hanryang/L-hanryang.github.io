@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "내 첫 번째 기술 블로그 포스트 🚀"
-date: 2026-04-06 10:55:00 +0900
-categories: [💻 Tech Log, 💡 테스트]
+date: 2026-04-05 10:55:00 +0900
+categories: [Tech Log, 테스트]
 tags: [블로그, 첫글, jekyll, obsidian]
 ---
 
